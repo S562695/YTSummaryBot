@@ -1,2 +1,2 @@
 # YTSummaryBot
-Our team of 3 are going to create a chatbot which converts the YouTube video (link) to summarization of that video
+This is a simple user-interface chatbot which gives summary of the youtube video when we provided the Youtube video URL(link).
